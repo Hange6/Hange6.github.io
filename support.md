@@ -22,7 +22,7 @@ title: 技术支持
 <p> 
 email：1315723965@qq.com       
 <p> 
-qq: 1315723965     
+QQ: 1315723965     
 <p> 
 
 {% include comments.html %}
