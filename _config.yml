@@ -64,7 +64,6 @@ nav:
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 技术支持, description: support, url: '/support'}      
     - {title: 关于我, description: about, url: '/about'}   
-    - {title: 计算机图形学作业, description: about, url: '/Lab'}     
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
